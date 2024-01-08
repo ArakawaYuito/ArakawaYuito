@@ -1,3 +1,9 @@
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaYuito&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
@@ -24,7 +30,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaYuito&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
