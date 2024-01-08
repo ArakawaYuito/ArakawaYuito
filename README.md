@@ -1,6 +1,6 @@
 ### Hi there 👋,  I’m Yuito Arakawa
 
-🔭I’m working on my master’s degree, currently learning **Artificial Intelligence**.
+🔭I’m working on my master’s degree, currently learning about **Artificial Intelligence**.
 
 ---
 
