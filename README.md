@@ -1,13 +1,12 @@
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaYuito&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
-
----
-
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaYuito&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
