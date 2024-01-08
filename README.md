@@ -1,7 +1,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaYuito&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArakawaYuito&show_icons=true&theme=blue_navy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArakawaYuito&hide_progress=true)
 
 ---
 
