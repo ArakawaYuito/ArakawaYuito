@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋,  I’m Yuito Arakawa
 
-- 🔭 I’m Yuito Arakawa. I’m currently learning AI
+- 🔭I’m currently learning AI
 
 ---
 
