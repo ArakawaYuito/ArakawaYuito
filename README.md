@@ -7,7 +7,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaYuito&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 
--
 
 ### ⚡ Languages and Tools :
 <div>
