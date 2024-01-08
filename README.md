@@ -1,7 +1,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaYuito&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArakawaYuito&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArakawaYuito&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
