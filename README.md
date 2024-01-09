@@ -1,6 +1,7 @@
 ### Hi there 👋,  I’m Yuito Arakawa
 
 🎓I’m working on my master’s degree, currently learning about **Artificial Intelligence**.
+
 ✔ Certification : 日本珠算連盟段位認定試験初段, 統計検定2級, Linux Professional Institute Linux Essentials, etc.
 
 
